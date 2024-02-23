@@ -39,10 +39,15 @@ p {
 	overflow: auto;
 	font-family: "Oswald", sans-serif;
 	font-style: normal;
+	margin-right: 10px;
 }
 
 .RSideContent h3 {
 	color: white;
+}
+
+.RSideContent li {
+	margin-right: 10px;
 }
 
 hr.TitleBreak {
