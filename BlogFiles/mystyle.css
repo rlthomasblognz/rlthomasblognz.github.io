@@ -82,6 +82,12 @@ hr.TitleBreak {
 	color: #524d4d;
 }
 
+.NoticeBoxDyn li {
+	font-size: 14pt;
+	font-family: "EB Garamond", serif;
+	font-style: normal;
+}
+
 #ThoughtList {
 	color: white;
 }
