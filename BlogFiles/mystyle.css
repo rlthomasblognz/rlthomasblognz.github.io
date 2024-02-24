@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Oswald:wght@200..700&display=swap');
 
 body {
-	margin-right: 2%;
+	margin-right: 5px;
 }
 
 h2 {
@@ -51,7 +51,7 @@ p {
 }
 
 .RSideContent li {
-	margin-right: 2%;
+	margin-right: 10px;
 }
 
 hr.TitleBreak {
